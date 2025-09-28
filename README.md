@@ -1,0 +1,1 @@
+# HR-table-summery-by-powerbi
